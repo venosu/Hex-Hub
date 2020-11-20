@@ -357,7 +357,7 @@ local b = MiscTab:Button("Crash Server", function()
 end)
 
 local b = MiscTab:Button("Copy Discord Invite", function()
-	setclipboard("https://discord.gg/uySBpqD")
+	setclipboard("https://discord.gg/pornhub")
 end)
 
 local TrollingTab = library:CreateWindow('Trolling') --                █ Trolling Tab    
